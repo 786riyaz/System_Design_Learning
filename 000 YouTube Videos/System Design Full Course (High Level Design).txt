@@ -1,0 +1,25 @@
+System Design Full Course (High Level Design)
+Rohit Negi
+https://www.youtube.com/watch?v=W8kg8h-uIC8
+
+
+
+🧠 What You’ll Learn
+
+How to think like a *System Designer*
+Breaking down real-world problems into scalable architecture
+Designing systems like:
+
+URL Shortener (like Bitly)
+WhatsApp / Chat Systems
+Instagram / Feed Systems
+Payment Systems
+Concepts like:
+
+Load Balancing
+Caching (Redis)
+Databases (SQL vs NoSQL)
+Rate Limiting
+Microservices vs Monolith
+CAP Theorem
+Consistency vs Availability trade-offs

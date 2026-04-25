@@ -1,0 +1,38 @@
+System Design was HARD until I Learned these 30 Concepts
+Ashish Pratap Singh
+https://www.youtube.com/watch?v=s9Qh9fWeOAk
+
+
+
+Here's the timestamps you were looking for 
+
+0:39 1. Client-Server Architecture 
+1:17 2. IP Addresses 
+1:43 3. Domain Name System (DNS)
+2:12 4. Proxy / Reverse proxy
+2:54 5. Latency
+3:18 6. HTTP / HTTPS 
+4:13 7. API's
+5:06 8. REST
+5:43 9. GraphQL
+6:38 10. Database 
+6:59 11. SQL Vs NoSQL 
+7:56 12. Vertical scaling 
+8:28 13. Horizontal scaling 
+8:49 14. Load balancer 
+9:36  15. Indexing 
+10:24 16. Replication 
+11:26 17. Sharding 
+12:02 18. Vertical partitioning 
+12:42 19. Caching 
+13:22 20. Denormalization 
+14:20 21. Cap theorem
+14:55 22. Blob storage 
+15:42 Content delivery network (CDN)
+16:46 24. Web sockets
+17:24 25. Web Hooks
+18:02 26. Microservices 
+18:24 27. Message Queues 
+18:57 28. Rate Limiting 
+19:33 29. API Gateway 
+20:11 30. Idempotency 
